@@ -11,7 +11,7 @@ on:
       - main
     paths:
       - main.py
-eny:
+env:
   GITHUB_NAME: bingdu748
   GITHUB_EMAIL: 502487460@qq.com
 
